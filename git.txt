@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "store-vue"
+git branch -M main
+git remote add origin https://github.com/gsbka378651/store-vue.git
+git push -u origin main
+
+
+git add .
+git commit -m "store-vue"
+git push -u origin main
+
+http://localhost:8005/
